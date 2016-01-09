@@ -1,7 +1,7 @@
 # Entropy calculation #
 
 This module contains some methods to calculate the entropy of an multistate einstein solid and a more general method using multisets.
-Another one is based on arethmitic encoding
+Another one is based on arithmetic encoding
 
 # Installation #
 
